@@ -2,7 +2,7 @@
 
 Create metasploit Payload easily using Payload
 
-![Screenshot](https://user-images.githubusercontent.com/32305505/99352267-56d06400-28c8-11eb-8aa3-a7da8e85e337.jpg)
+![Screenshot](https://github.com/vyasanbmathew5/payload/blob/main/.github/20240103_194846.png)
 
 
 # Installation
