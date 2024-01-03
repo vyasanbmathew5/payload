@@ -12,13 +12,13 @@ Create metasploit Payload easily using Payload
  
     sudo apt-get install python3 python3-pip net-tools
     
-    git clone https://github.com/vyasanbmathew5/Payload.git
+    git clone https://github.com/vyasanbmathew5/payload.git
     
-    cd Payload
+    cd payload
     
     sudo pip3 install -r requirements.txt
     
-    python Payload.py
+    python payload.py
     
     
     
@@ -27,13 +27,13 @@ For Termux users -
 
     apt install python wget 
     
-    git clone https://github.com/vyasanbmathew5/Payload.git
+    git clone https://github.com/vyasanbmathew5/payload.git
     
-    cd Payload
+    cd payload
     
     pip install -r requirements.txt
     
-    python Payload.py
+    python payload.py
 
 
 
@@ -65,7 +65,7 @@ For Termux users -
 
 -----------------------------------------------------------------------------------------------------
 
-### If you have any issue regarding this,report an issue [here](https://github.com/vyasanbmathew5/Payload/issues)
+### If you have any issue regarding this,report an issue [here](https://github.com/vyasanbmathew5/payload/issues)
 
 
 
